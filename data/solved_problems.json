@@ -1,5 +1,5 @@
 {
-  "total_solved": 453,
+  "total_solved": 459,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -453,7 +453,13 @@
     "MAKEMONEY",
     "FRUITS",
     "AGENTCHEF",
-    "CHEFSTEP"
+    "CHEFSTEP",
+    "QBGI",
+    "BURGERS2",
+    "PSEUDOSORT",
+    "BUSROW",
+    "BOTTOM",
+    "MAXADJSUM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3846,6 +3852,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 07:52:08"
+    },
+    {
+      "code": "QBGI",
+      "name": "Bar Queue",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:19:30"
+    },
+    {
+      "code": "BURGERS2",
+      "name": "Hungry Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:21:36"
+    },
+    {
+      "code": "PSEUDOSORT",
+      "name": "Pseudo Sorted Array",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:22:56"
+    },
+    {
+      "code": "BUSROW",
+      "name": "Bus Rows",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:23:58"
+    },
+    {
+      "code": "BOTTOM",
+      "name": "Guess the bottom face",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:25:38"
+    },
+    {
+      "code": "MAXADJSUM",
+      "name": "Maximise Adjacent Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:26:33"
     }
   ]
 }
