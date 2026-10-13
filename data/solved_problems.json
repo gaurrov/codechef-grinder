@@ -1,5 +1,5 @@
 {
-  "total_solved": 463,
+  "total_solved": 466,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -463,7 +463,10 @@
     "MAYOR_PARTY",
     "REACHWT",
     "DICENUM",
-    "CHEAPFUEL"
+    "CHEAPFUEL",
+    "CARSELL",
+    "CHEFCONTEST",
+    "P2BAR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -686,7 +689,8 @@
     "BADMINTON",
     "CHEFZOT",
     "SBTG",
-    "ATTENDU"
+    "ATTENDU",
+    "LARGODDSTRIN"
   ],
   "history": [
     {
@@ -3926,6 +3930,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-13 20:05:09"
+    },
+    {
+      "code": "CARSELL",
+      "name": "Sell All the Cars",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:01:20"
+    },
+    {
+      "code": "CHEFCONTEST",
+      "name": "Chef and Contest",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:03:13"
+    },
+    {
+      "code": "P2BAR",
+      "name": "Signal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:05:06"
     }
   ]
 }
