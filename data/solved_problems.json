@@ -1,5 +1,5 @@
 {
-  "total_solved": 459,
+  "total_solved": 463,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -459,7 +459,11 @@
     "PSEUDOSORT",
     "BUSROW",
     "BOTTOM",
-    "MAXADJSUM"
+    "MAXADJSUM",
+    "MAYOR_PARTY",
+    "REACHWT",
+    "DICENUM",
+    "CHEAPFUEL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3894,6 +3898,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 12:26:33"
+    },
+    {
+      "code": "MAYOR_PARTY",
+      "name": "Peaceful Party",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 19:57:54"
+    },
+    {
+      "code": "REACHWT",
+      "name": "Reach Weight",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-13 20:01:05"
+    },
+    {
+      "code": "DICENUM",
+      "name": "Dice Number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 20:03:02"
+    },
+    {
+      "code": "CHEAPFUEL",
+      "name": "Which Fuel is Cheaper",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-13 20:05:09"
     }
   ]
 }
