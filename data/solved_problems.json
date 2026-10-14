@@ -1,5 +1,5 @@
 {
-  "total_solved": 470,
+  "total_solved": 473,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -470,7 +470,10 @@
     "AABBCCDD",
     "STRONGTABLE",
     "ODDSEVENS",
-    "COVIDLQ"
+    "COVIDLQ",
+    "BLUEBLACK",
+    "THREEFR",
+    "KOL15A"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3987,6 +3990,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-14 09:51:04"
+    },
+    {
+      "code": "BLUEBLACK",
+      "name": "Blue and Black Pens",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-14 18:12:23"
+    },
+    {
+      "code": "THREEFR",
+      "name": "Three Friends",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-14 18:15:00"
+    },
+    {
+      "code": "KOL15A",
+      "name": "Processing a string",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 18:16:28"
     }
   ]
 }
