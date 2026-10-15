@@ -1,5 +1,5 @@
 {
-  "total_solved": 493,
+  "total_solved": 498,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -493,7 +493,12 @@
     "MAXSLAM",
     "LKDNGOLF",
     "BUSSEAT",
-    "UNQSHF"
+    "UNQSHF",
+    "SPC2025",
+    "ADASCOOL",
+    "AMMEAT",
+    "MRSWAP",
+    "DBDISC"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4171,6 +4176,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-15 18:01:45"
+    },
+    {
+      "code": "SPC2025",
+      "name": "New-Pro Coder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 20:36:12"
+    },
+    {
+      "code": "ADASCOOL",
+      "name": "Ada School",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 20:37:28"
+    },
+    {
+      "code": "AMMEAT",
+      "name": "Andrew and the Meatballs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 20:38:23"
+    },
+    {
+      "code": "MRSWAP",
+      "name": "Mirror Swap",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 20:39:58"
+    },
+    {
+      "code": "DBDISC",
+      "name": "Double Discount",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 20:41:30"
     }
   ]
 }
