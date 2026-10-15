@@ -1,5 +1,5 @@
 {
-  "total_solved": 478,
+  "total_solved": 484,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -478,7 +478,13 @@
     "TEKKEN",
     "STKSTR",
     "P2169",
-    "MAKENZERO"
+    "MAKENZERO",
+    "EOEO",
+    "LARGESTK343",
+    "CHFINTRO",
+    "CABRIDE",
+    "CHEFSUM",
+    "FAIRELCT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4051,6 +4057,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-14 21:05:51"
+    },
+    {
+      "code": "EOEO",
+      "name": "The Tom and Jerry Game!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:28:36"
+    },
+    {
+      "code": "LARGESTK343",
+      "name": "Largest K",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:30:16"
+    },
+    {
+      "code": "CHFINTRO",
+      "name": "Chef and Interactive Contests",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:31:24"
+    },
+    {
+      "code": "CABRIDE",
+      "name": "Cab Rides",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:32:25"
+    },
+    {
+      "code": "CHEFSUM",
+      "name": "Little Chef and Sums",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:33:19"
+    },
+    {
+      "code": "FAIRELCT",
+      "name": "Fair Elections",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:35:17"
     }
   ]
 }
