@@ -1,5 +1,5 @@
 {
-  "total_solved": 488,
+  "total_solved": 493,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -488,7 +488,12 @@
     "SALARY",
     "WHICHDIV",
     "CODETOWN",
-    "SUNNYDAY"
+    "SUNNYDAY",
+    "TENPACKETS",
+    "MAXSLAM",
+    "LKDNGOLF",
+    "BUSSEAT",
+    "UNQSHF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4131,6 +4136,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 14:10:24"
+    },
+    {
+      "code": "TENPACKETS",
+      "name": "Buy Ten Packets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:54:41"
+    },
+    {
+      "code": "MAXSLAM",
+      "name": "Maximum Slams",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-15 17:56:21"
+    },
+    {
+      "code": "LKDNGOLF",
+      "name": "Golf",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:57:54"
+    },
+    {
+      "code": "BUSSEAT",
+      "name": "Bus Seating",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:59:41"
+    },
+    {
+      "code": "UNQSHF",
+      "name": "Unequal Shuffle",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-15 18:01:45"
     }
   ]
 }
