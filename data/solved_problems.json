@@ -735,7 +735,13 @@
     "SEATING7",
     "EQSUM",
     "BRLADDER",
-    "DRAWCH"
+    "DRAWCH",
+    "CHANGEONE7",
+    "BLNDOR",
+    "GROUPASSGN",
+    "TYPWRL",
+    "SAMESAME",
+    "ANUUND"
   ],
   "history": [
     {
