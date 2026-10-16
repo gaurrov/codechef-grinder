@@ -1,5 +1,5 @@
 {
-  "total_solved": 498,
+  "total_solved": 503,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -498,7 +498,12 @@
     "ADASCOOL",
     "AMMEAT",
     "MRSWAP",
-    "DBDISC"
+    "DBDISC",
+    "EID",
+    "HCAGMAM1",
+    "HATTRICK",
+    "MXON",
+    "GOODSUB7"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4211,6 +4216,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 20:41:30"
+    },
+    {
+      "code": "EID",
+      "name": "Chef and Eid",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:20:29"
+    },
+    {
+      "code": "HCAGMAM1",
+      "name": "Chef And Salary Pay",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:21:37"
+    },
+    {
+      "code": "HATTRICK",
+      "name": "Hattrick",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:22:42"
+    },
+    {
+      "code": "MXON",
+      "name": "Maximum Ones",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-16 09:25:07"
+    },
+    {
+      "code": "GOODSUB7",
+      "name": "Good Subsequence",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-16 09:29:06"
     }
   ]
 }
