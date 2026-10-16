@@ -731,7 +731,11 @@
     "SHARING",
     "CNTODDEVEN",
     "THREEBOX",
-    "BOP3"
+    "BOP3",
+    "SEATING7",
+    "EQSUM",
+    "BRLADDER",
+    "DRAWCH"
   ],
   "history": [
     {
