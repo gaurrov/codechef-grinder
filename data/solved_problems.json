@@ -1,5 +1,5 @@
 {
-  "total_solved": 524,
+  "total_solved": 528,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -524,7 +524,11 @@
     "CHESSWIN",
     "FIZZBUZZ23_2",
     "CFMM",
-    "SC31"
+    "SC31",
+    "CHESS_PAIR",
+    "TWODIFFPALIN",
+    "PIZZAPARTY",
+    "GCEA"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4430,6 +4434,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 16:48:17"
+    },
+    {
+      "code": "CHESS_PAIR",
+      "name": "Chess Pairing",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 19:44:30"
+    },
+    {
+      "code": "TWODIFFPALIN",
+      "name": "Two Different Palindromes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 19:45:49"
+    },
+    {
+      "code": "PIZZAPARTY",
+      "name": "Pizza Party",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-17 19:47:11"
+    },
+    {
+      "code": "GCEA",
+      "name": "Gotta Catch Em All",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 19:48:12"
     }
   ]
 }
