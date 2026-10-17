@@ -1,5 +1,5 @@
 {
-  "total_solved": 508,
+  "total_solved": 514,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -508,7 +508,13 @@
     "FLOWERBUY",
     "CHOCOCHEF",
     "CHOCEAT",
-    "WRAPGIFTS"
+    "WRAPGIFTS",
+    "SNAPE",
+    "ADDPOS",
+    "MERRYXMAS",
+    "CCHEAVEN",
+    "DONUTSELL",
+    "GEMBUND"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4301,6 +4307,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-16 20:14:17"
+    },
+    {
+      "code": "SNAPE",
+      "name": "Snape and Ladder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:52:13"
+    },
+    {
+      "code": "ADDPOS",
+      "name": "Add to make Positive",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:53:59"
+    },
+    {
+      "code": "MERRYXMAS",
+      "name": "Merry Christmas!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:55:10"
+    },
+    {
+      "code": "CCHEAVEN",
+      "name": "Chef in Heaven ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:56:27"
+    },
+    {
+      "code": "DONUTSELL",
+      "name": "Selling Donuts",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:58:27"
+    },
+    {
+      "code": "GEMBUND",
+      "name": "Gem Bundles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 09:00:15"
     }
   ]
 }
