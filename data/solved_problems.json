@@ -1,5 +1,5 @@
 {
-  "total_solved": 514,
+  "total_solved": 519,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -514,7 +514,12 @@
     "MERRYXMAS",
     "CCHEAVEN",
     "DONUTSELL",
-    "GEMBUND"
+    "GEMBUND",
+    "FARFROMO",
+    "SMARTER",
+    "PERMUTATION",
+    "TRUTHLIE",
+    "VOTERS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -752,7 +757,8 @@
     "GROUPASSGN",
     "TYPWRL",
     "SAMESAME",
-    "ANUUND"
+    "ANUUND",
+    "EXPSTP"
   ],
   "history": [
     {
@@ -4349,6 +4355,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 09:00:15"
+    },
+    {
+      "code": "FARFROMO",
+      "name": "Far from origin",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:53:19"
+    },
+    {
+      "code": "SMARTER",
+      "name": "Work Smarter, Not Harder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:55:05"
+    },
+    {
+      "code": "PERMUTATION",
+      "name": "Convert to permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:57:26"
+    },
+    {
+      "code": "TRUTHLIE",
+      "name": "Truth Teller And Liars 101",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-17 12:59:17"
+    },
+    {
+      "code": "VOTERS",
+      "name": "Discrepancies in the Voters List",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 13:00:52"
     }
   ]
 }
