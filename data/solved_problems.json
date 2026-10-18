@@ -1,5 +1,5 @@
 {
-  "total_solved": 539,
+  "total_solved": 543,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -539,7 +539,11 @@
     "GYMDAY",
     "MAXCAP",
     "MAXSCORE7",
-    "EASYPERM"
+    "EASYPERM",
+    "VALIDMIN",
+    "AVGOF3",
+    "BISHOPMV",
+    "EVENHATE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4550,6 +4554,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 13:16:36"
+    },
+    {
+      "code": "VALIDMIN",
+      "name": "Valid Minimum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 16:56:38"
+    },
+    {
+      "code": "AVGOF3",
+      "name": "Average of Three",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 16:57:52"
+    },
+    {
+      "code": "BISHOPMV",
+      "name": "Bishop Moves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 16:59:54"
+    },
+    {
+      "code": "EVENHATE",
+      "name": "Even Numbers Hate",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-18 17:01:30"
     }
   ]
 }
