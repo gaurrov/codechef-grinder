@@ -1,5 +1,5 @@
 {
-  "total_solved": 556,
+  "total_solved": 561,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -556,7 +556,12 @@
     "RESELL",
     "COOLSUB",
     "MUL123",
-    "PLACE0110"
+    "PLACE0110",
+    "PERMOR",
+    "COMM3",
+    "EVENM",
+    "COOLER7",
+    "BIGARRAY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4692,6 +4697,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-19 19:35:15"
+    },
+    {
+      "code": "PERMOR",
+      "name": "OR Permutation",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-19 21:47:04"
+    },
+    {
+      "code": "COMM3",
+      "name": "Three Way Communications",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 21:48:57"
+    },
+    {
+      "code": "EVENM",
+      "name": "Even Matrix",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-19 21:51:05"
+    },
+    {
+      "code": "COOLER7",
+      "name": "Cooler",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 21:52:34"
+    },
+    {
+      "code": "BIGARRAY",
+      "name": "Obtain the Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 21:54:30"
     }
   ]
 }
