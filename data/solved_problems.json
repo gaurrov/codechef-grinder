@@ -1,5 +1,5 @@
 {
-  "total_solved": 547,
+  "total_solved": 551,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -547,7 +547,11 @@
     "REPEAT",
     "EQCARDGAME",
     "YOGACLASS",
-    "CVDRUN"
+    "CVDRUN",
+    "ORDDIST",
+    "DECODEIT",
+    "CHEFSLP",
+    "NONADJFLIP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4614,6 +4618,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 19:47:10"
+    },
+    {
+      "code": "ORDDIST",
+      "name": "Ordered Distances",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:20:28"
+    },
+    {
+      "code": "DECODEIT",
+      "name": "Encoded String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:22:12"
+    },
+    {
+      "code": "CHEFSLP",
+      "name": "Chef and Pairing Slippers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:23:31"
+    },
+    {
+      "code": "NONADJFLIP",
+      "name": "Non Adjacent Flips",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:24:33"
     }
   ]
 }
