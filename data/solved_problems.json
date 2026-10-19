@@ -1,5 +1,5 @@
 {
-  "total_solved": 551,
+  "total_solved": 556,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -551,7 +551,12 @@
     "ORDDIST",
     "DECODEIT",
     "CHEFSLP",
-    "NONADJFLIP"
+    "NONADJFLIP",
+    "RRCOPY",
+    "RESELL",
+    "COOLSUB",
+    "MUL123",
+    "PLACE0110"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4652,6 +4657,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-19 10:24:33"
+    },
+    {
+      "code": "RRCOPY",
+      "name": "Copy-Paste",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:29:45"
+    },
+    {
+      "code": "RESELL",
+      "name": "Reselling Items",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:30:41"
+    },
+    {
+      "code": "COOLSUB",
+      "name": "Cool Subsequences",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:31:56"
+    },
+    {
+      "code": "MUL123",
+      "name": "Make Multiple",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:33:13"
+    },
+    {
+      "code": "PLACE0110",
+      "name": "Placing 01 And 10",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-19 19:35:15"
     }
   ]
 }
