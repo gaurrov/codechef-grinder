@@ -1,5 +1,5 @@
 {
-  "total_solved": 577,
+  "total_solved": 581,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -577,7 +577,11 @@
     "MULT3",
     "INTMTCH",
     "CLIPLX",
-    "P2_175"
+    "P2_175",
+    "LONGDRIVE",
+    "LOSTWKND",
+    "MOVHYPE",
+    "CHSERVE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4860,6 +4864,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-20 18:18:04"
+    },
+    {
+      "code": "LONGDRIVE",
+      "name": "Long Drive",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 20:56:26"
+    },
+    {
+      "code": "LOSTWKND",
+      "name": "Lost Weekends",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 20:58:25"
+    },
+    {
+      "code": "MOVHYPE",
+      "name": "Movie Hype",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 21:00:19"
+    },
+    {
+      "code": "CHSERVE",
+      "name": "Chef and Serves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 21:01:47"
     }
   ]
 }
