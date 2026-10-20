@@ -1,5 +1,5 @@
 {
-  "total_solved": 571,
+  "total_solved": 577,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -571,7 +571,13 @@
     "LADDU",
     "BUYING7",
     "ODDEVEN7",
-    "VACCINE1"
+    "VACCINE1",
+    "FARMLEGS",
+    "MAX_BIN",
+    "MULT3",
+    "INTMTCH",
+    "CLIPLX",
+    "P2_175"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4812,6 +4818,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 14:25:51"
+    },
+    {
+      "code": "FARMLEGS",
+      "name": "Legs on a Farm",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 18:08:12"
+    },
+    {
+      "code": "MAX_BIN",
+      "name": "Max Binary",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:09:56"
+    },
+    {
+      "code": "MULT3",
+      "name": "Multiple of 3",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 18:11:52"
+    },
+    {
+      "code": "INTMTCH",
+      "name": "Interesting Match",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 18:13:39"
+    },
+    {
+      "code": "CLIPLX",
+      "name": "IPL and RCB",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 18:15:49"
+    },
+    {
+      "code": "P2_175",
+      "name": "Technex Tickets",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 18:18:04"
     }
   ]
 }
