@@ -1,5 +1,5 @@
 {
-  "total_solved": 561,
+  "total_solved": 566,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -561,7 +561,12 @@
     "COMM3",
     "EVENM",
     "COOLER7",
-    "BIGARRAY"
+    "BIGARRAY",
+    "JOINSTATE",
+    "FAIL",
+    "SCORING",
+    "XMASTREE",
+    "WATERMOVE2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4732,6 +4737,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-19 21:54:30"
+    },
+    {
+      "code": "JOINSTATE",
+      "name": "Join States",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:41:00"
+    },
+    {
+      "code": "FAIL",
+      "name": "Failing Grades",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:42:25"
+    },
+    {
+      "code": "SCORING",
+      "name": "Scoring",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:44:38"
+    },
+    {
+      "code": "XMASTREE",
+      "name": "Christmas Trees",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:46:01"
+    },
+    {
+      "code": "WATERMOVE2",
+      "name": "Water Moving (Max)",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:47:19"
     }
   ]
 }
