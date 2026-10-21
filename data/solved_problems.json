@@ -1,5 +1,5 @@
 {
-  "total_solved": 581,
+  "total_solved": 585,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -581,7 +581,11 @@
     "LONGDRIVE",
     "LOSTWKND",
     "MOVHYPE",
-    "CHSERVE"
+    "CHSERVE",
+    "FINALSALE",
+    "STOCKMARKET",
+    "RECNDSTR",
+    "XOR_PAL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4892,6 +4896,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 21:01:47"
+    },
+    {
+      "code": "FINALSALE",
+      "name": "Sale",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 09:42:23"
+    },
+    {
+      "code": "STOCKMARKET",
+      "name": "Chef and Stocks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 09:45:56"
+    },
+    {
+      "code": "RECNDSTR",
+      "name": "Chef and String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 09:47:57"
+    },
+    {
+      "code": "XOR_PAL",
+      "name": "Xor Palindrome",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 09:49:42"
     }
   ]
 }
