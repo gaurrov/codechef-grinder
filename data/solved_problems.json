@@ -1,5 +1,5 @@
 {
-  "total_solved": 585,
+  "total_solved": 589,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -585,7 +585,11 @@
     "FINALSALE",
     "STOCKMARKET",
     "RECNDSTR",
-    "XOR_PAL"
+    "XOR_PAL",
+    "FIXEDPTS",
+    "MONEYDOUBLE",
+    "BALLOONS",
+    "ALTARR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -833,7 +837,9 @@
     "STFOOD",
     "TEMPLELA",
     "DOUBLE",
-    "AVDSQUARPLZ"
+    "AVDSQUARPLZ",
+    "BAKERY7",
+    "MINMXOR"
   ],
   "history": [
     {
@@ -4927,6 +4933,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-21 09:49:42"
+    },
+    {
+      "code": "FIXEDPTS",
+      "name": "Fixed Points",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 09:42:31"
+    },
+    {
+      "code": "MONEYDOUBLE",
+      "name": "Money Double",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 09:45:57"
+    },
+    {
+      "code": "BALLOONS",
+      "name": "Coloured Balloons",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-22 09:50:26"
+    },
+    {
+      "code": "ALTARR",
+      "name": "Alternating Array",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 09:52:49"
     }
   ]
 }
