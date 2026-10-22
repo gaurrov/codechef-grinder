@@ -839,7 +839,11 @@
     "DOUBLE",
     "AVDSQUARPLZ",
     "BAKERY7",
-    "MINMXOR"
+    "MINMXOR",
+    "CAN_REACH",
+    "CHPINTU",
+    "MODEFREQ",
+    "RATIO2"
   ],
   "history": [
     {
