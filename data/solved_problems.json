@@ -1,5 +1,5 @@
 {
-  "total_solved": 590,
+  "total_solved": 591,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -590,7 +590,8 @@
     "MONEYDOUBLE",
     "BALLOONS",
     "ALTARR",
-    "RNGEODD"
+    "RNGEODD",
+    "RATING"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -847,7 +848,12 @@
     "RATIO2",
     "NEARSQ",
     "WOLFDOWN",
-    "ALEXNUMB"
+    "ALEXNUMB",
+    "OG",
+    "CMIX",
+    "SECLAR",
+    "IPCCERT",
+    "MINDAYSRET"
   ],
   "history": [
     {
@@ -4976,6 +4982,13 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-22 18:16:00"
+    },
+    {
+      "code": "RATING",
+      "name": "The Rating Dilemma",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 21:03:33"
     }
   ]
 }
